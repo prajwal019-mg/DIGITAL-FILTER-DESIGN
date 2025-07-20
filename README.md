@@ -14,4 +14,4 @@ Design and simulate a Finite Impulse Response (FIR) digital filter using Verilog
 - ModelSim / Vivado / Icarus Verilog
 
 ## 👤 Author
-Your Name
+PRAJWAL
