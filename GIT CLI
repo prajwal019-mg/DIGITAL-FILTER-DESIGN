@@ -1,0 +1,15 @@
+git clone https://github.com/your-username/FIR-Digital-Filter-CODTECH.git
+cd FIR-Digital-Filter-CODTECH
+
+mkdir src testbench reports
+
+# Copy your files into folders
+cp /path/to/fir_filter.v src/
+cp /path/to/fir_tb.v testbench/
+cp /path/to/simulation_output.pdf reports/
+cp /path/to/performance_analysis.md reports/
+
+# Stage and commit
+git add .
+git commit -m "Added FIR filter Verilog code, testbench, and analysis"
+git push
