@@ -1,0 +1,13 @@
+FIR-Digital-Filter-CODTECH/
+│
+├── src/
+│   └── fir_filter.v       # Verilog code
+│
+├── testbench/
+│   └── fir_tb.v           # Testbench
+│
+├── reports/
+│   └── simulation_output.pdf
+│   └── performance_analysis.md
+│
+└── README.md
